@@ -1,7 +1,7 @@
 
 # Source
 
-> Original Project Source by [](https://github.com/Mamoon-Alhawamdeh/AmazingSpinner).
+> Original Project Source by **Mamoon Alhawamdeh** <br>[Click Here](https://github.com/Mamoon-Alhawamdeh/AmazingSpinner).
 <br>
 <br>
 
